@@ -1,7 +1,6 @@
 const cityInput = document.querySelector(".city-input");
 const searchButton = document.querySelector(".search-button");
 const locationButton = document.querySelector(".location-button");
-const nexttendays = document.querySelector(".next-ten");
 const weatherCardsDiv = document.querySelector(".weather-cards");
 const currentWeatherDiv = document.querySelector(".current-weather");
 
